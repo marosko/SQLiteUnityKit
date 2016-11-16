@@ -25,6 +25,9 @@ the file *“config.db”* is necessary exist in the **“StreamingAssets”** f
 
 If this folder does not exist create it in the root folder of your Unity project.
   
+When running your project from Unity Editor on Mac, a folder in Application Support is created at: 
+"/Users/YOUR_NAME/Library/Application Support/DefaultCompany/PROJECT_NAME"
+you can find modified sqlite file there.
 </br></br>
 
 
